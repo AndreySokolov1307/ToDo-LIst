@@ -127,7 +127,7 @@ class ToDoListCell: UITableViewCell {
             mainHorisontalStack.topAnchor.constraint(equalTo: contentView.topAnchor, constant: 12),
         ])
         
-        //Вот эту ебалу пришлось сделать чтобы не вылезала ошибка с UIView Encapsulated LAyout Height ... когда добавляли или удалял Селлс и нажимал кнопку показать/скрыть
+        //Вот это пришлось сделать чтобы не вылезала ошибка с UIView Encapsulated LAyout Height ... когда добавлял или удалял Селлс и нажимал кнопку показать/скрыть
         let z = mainHorisontalStack.bottomAnchor.constraint(equalTo: contentView.bottomAnchor, constant: -12)
         z.isActive = true
         z.priority = UILayoutPriority(999)
