@@ -8,24 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		3206748D2ACDA54500D76393 /* NewToDoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3206748C2ACDA54500D76393 /* NewToDoCell.swift */; };
-		32198CCA2ACA041D00CBA7F5 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32198CC92ACA041D00CBA7F5 /* MainView.swift */; };
 		321991212ACC688C00C52B41 /* TasksListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321991202ACC688C00C52B41 /* TasksListTableViewController.swift */; };
 		321991232ACC71A700C52B41 /* TasksListHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321991222ACC71A700C52B41 /* TasksListHeader.swift */; };
 		321991252ACC826400C52B41 /* ToDoListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321991242ACC826400C52B41 /* ToDoListCell.swift */; };
 		325C6D292AD99CD300FF6308 /* AddButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 325C6D282AD99CD300FF6308 /* AddButton.swift */; };
-		3265BCFE2ABF6EDC00A693A3 /* WithoutTableViewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3265BCFD2ABF6EDC00A693A3 /* WithoutTableViewView.swift */; };
 		32760BC62AC0DB2E00583E88 /* NewTaskTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32760BC52AC0DB2E00583E88 /* NewTaskTableViewController.swift */; };
 		32760BC92AC0E2E300583E88 /* TextViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32760BC82AC0E2E300583E88 /* TextViewCell.swift */; };
 		3277AD3C2AC1C72F000F7ABA /* ImportanceCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3277AD3B2AC1C72F000F7ABA /* ImportanceCell.swift */; };
 		3277AD3E2AC1DEB9000F7ABA /* DeadlineCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3277AD3D2AC1DEB9000F7ABA /* DeadlineCell.swift */; };
 		3277AD402AC1E838000F7ABA /* DatePickerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3277AD3F2AC1E838000F7ABA /* DatePickerCell.swift */; };
 		3277AD422AC201F9000F7ABA /* DeleteButtonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3277AD412AC201F9000F7ABA /* DeleteButtonCell.swift */; };
-		327891342ACB2BA900C475A9 /* WithoutTableViewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 327891332ACB2BA900C475A9 /* WithoutTableViewVC.swift */; };
 		3279C4042ADB55C300E8CBB6 /* ContextMenuActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3279C4032ADB55C300E8CBB6 /* ContextMenuActions.swift */; };
 		328C924D2AD892B10013E78B /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 328C924C2AD892B10013E78B /* Images.swift */; };
 		328C924F2AD892BD0013E78B /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 328C924E2AD892BD0013E78B /* Colors.swift */; };
 		840EC1212AB758F3002F4C8A /* FileCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840EC1202AB758F3002F4C8A /* FileCache.swift */; };
-		847A3B072ABE380600F7F608 /* MainTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847A3B062ABE380600F7F608 /* MainTaskViewController.swift */; };
 		848082B52AB630FA004239AE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848082B42AB630FA004239AE /* AppDelegate.swift */; };
 		848082B72AB630FA004239AE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848082B62AB630FA004239AE /* SceneDelegate.swift */; };
 		848082BE2AB63101004239AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 848082BD2AB63101004239AE /* Assets.xcassets */; };
@@ -36,24 +32,20 @@
 
 /* Begin PBXFileReference section */
 		3206748C2ACDA54500D76393 /* NewToDoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewToDoCell.swift; sourceTree = "<group>"; };
-		32198CC92ACA041D00CBA7F5 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		321991202ACC688C00C52B41 /* TasksListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksListTableViewController.swift; sourceTree = "<group>"; };
 		321991222ACC71A700C52B41 /* TasksListHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksListHeader.swift; sourceTree = "<group>"; };
 		321991242ACC826400C52B41 /* ToDoListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListCell.swift; sourceTree = "<group>"; };
 		325C6D282AD99CD300FF6308 /* AddButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddButton.swift; sourceTree = "<group>"; };
-		3265BCFD2ABF6EDC00A693A3 /* WithoutTableViewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WithoutTableViewView.swift; sourceTree = "<group>"; };
 		32760BC52AC0DB2E00583E88 /* NewTaskTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTaskTableViewController.swift; sourceTree = "<group>"; };
 		32760BC82AC0E2E300583E88 /* TextViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewCell.swift; sourceTree = "<group>"; };
 		3277AD3B2AC1C72F000F7ABA /* ImportanceCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportanceCell.swift; sourceTree = "<group>"; };
 		3277AD3D2AC1DEB9000F7ABA /* DeadlineCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeadlineCell.swift; sourceTree = "<group>"; };
 		3277AD3F2AC1E838000F7ABA /* DatePickerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerCell.swift; sourceTree = "<group>"; };
 		3277AD412AC201F9000F7ABA /* DeleteButtonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteButtonCell.swift; sourceTree = "<group>"; };
-		327891332ACB2BA900C475A9 /* WithoutTableViewVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WithoutTableViewVC.swift; sourceTree = "<group>"; };
 		3279C4032ADB55C300E8CBB6 /* ContextMenuActions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuActions.swift; sourceTree = "<group>"; };
 		328C924C2AD892B10013E78B /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 		328C924E2AD892BD0013E78B /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		840EC1202AB758F3002F4C8A /* FileCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileCache.swift; sourceTree = "<group>"; };
-		847A3B062ABE380600F7F608 /* MainTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTaskViewController.swift; sourceTree = "<group>"; };
 		848082B12AB630FA004239AE /* Yandex ToDo LIst.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Yandex ToDo LIst.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		848082B42AB630FA004239AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		848082B62AB630FA004239AE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,21 +67,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		32198CC72ACA021E00CBA7F5 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				32198CC82ACA024C00CBA7F5 /* Cells */,
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		32198CC82ACA024C00CBA7F5 /* Cells */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Cells;
-			sourceTree = "<group>";
-		};
 		3265BCFC2ABF377B00A693A3 /* Views */ = {
 			isa = PBXGroup;
 			children = (
@@ -99,17 +76,6 @@
 				32760BC72AC0E2AA00583E88 /* Cells */,
 			);
 			path = Views;
-			sourceTree = "<group>";
-		};
-		32760BC42AC0DAF400583E88 /* BackUpPlan */ = {
-			isa = PBXGroup;
-			children = (
-				327891322ACB28BA00C475A9 /* Controllers */,
-				32198CC72ACA021E00CBA7F5 /* Views */,
-				32198CC92ACA041D00CBA7F5 /* MainView.swift */,
-				3265BCFD2ABF6EDC00A693A3 /* WithoutTableViewView.swift */,
-			);
-			path = BackUpPlan;
 			sourceTree = "<group>";
 		};
 		32760BC72AC0E2AA00583E88 /* Cells */ = {
@@ -124,15 +90,6 @@
 				3206748C2ACDA54500D76393 /* NewToDoCell.swift */,
 			);
 			path = Cells;
-			sourceTree = "<group>";
-		};
-		327891322ACB28BA00C475A9 /* Controllers */ = {
-			isa = PBXGroup;
-			children = (
-				847A3B062ABE380600F7F608 /* MainTaskViewController.swift */,
-				327891332ACB2BA900C475A9 /* WithoutTableViewVC.swift */,
-			);
-			path = Controllers;
 			sourceTree = "<group>";
 		};
 		328C92492AD892930013E78B /* Constants */ = {
@@ -186,7 +143,6 @@
 				849C639F2AB634CC00E7C3C3 /* Model */,
 				8493C4122ABE028A00375877 /* Extencions */,
 				848082C82AB63157004239AE /* Resourses */,
-				32760BC42AC0DAF400583E88 /* BackUpPlan */,
 			);
 			path = "Yandex ToDo LIst";
 			sourceTree = "<group>";
@@ -307,11 +263,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				32760BC92AC0E2E300583E88 /* TextViewCell.swift in Sources */,
-				32198CCA2ACA041D00CBA7F5 /* MainView.swift in Sources */,
 				3277AD402AC1E838000F7ABA /* DatePickerCell.swift in Sources */,
 				3206748D2ACDA54500D76393 /* NewToDoCell.swift in Sources */,
 				8493C4142ABE02CE00375877 /* Date extension.swift in Sources */,
-				3265BCFE2ABF6EDC00A693A3 /* WithoutTableViewView.swift in Sources */,
 				849C63A12AB634DB00E7C3C3 /* ToDoItem.swift in Sources */,
 				848082B52AB630FA004239AE /* AppDelegate.swift in Sources */,
 				3277AD422AC201F9000F7ABA /* DeleteButtonCell.swift in Sources */,
@@ -321,9 +275,7 @@
 				3279C4042ADB55C300E8CBB6 /* ContextMenuActions.swift in Sources */,
 				3277AD3E2AC1DEB9000F7ABA /* DeadlineCell.swift in Sources */,
 				321991252ACC826400C52B41 /* ToDoListCell.swift in Sources */,
-				327891342ACB2BA900C475A9 /* WithoutTableViewVC.swift in Sources */,
 				32760BC62AC0DB2E00583E88 /* NewTaskTableViewController.swift in Sources */,
-				847A3B072ABE380600F7F608 /* MainTaskViewController.swift in Sources */,
 				325C6D292AD99CD300FF6308 /* AddButton.swift in Sources */,
 				321991212ACC688C00C52B41 /* TasksListTableViewController.swift in Sources */,
 				328C924D2AD892B10013E78B /* Images.swift in Sources */,

@@ -16,4 +16,5 @@ enum ImageName {
     static let checkmarkCircleFill = "checkmark.circle.fill"
     static let trashFill = "trash.fill"
     static let infoCircleFill = "info.circle.fill"
+
 }
